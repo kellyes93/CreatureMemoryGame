@@ -9,11 +9,11 @@
 
 🕹️🕹️🕹️ Our Team 🕹️🕹️🕹️
 
-- 👩‍💻 Kelly Johanna Escobar Castaño - Usuario GitHub: kellyes93
+- 👩‍💻 Kelly Johanna Escobar Castaño - User GitHub: kellyes93
 
-- 👨‍💻 Diego Felipe Alcala Suarez - Usuario GitHub: ProfDialfes
+- 👨‍💻 Diego Felipe Alcala Suarez - User GitHub: ProfDialfes
 
-- 👨‍💻 Julian Arango Jaramillo - Usuario GitHub: HelperHelper
+- 👨‍💻 Julian Arango Jaramillo - User GitHub: HelperHelper
 
 
 ### Made with🛠
