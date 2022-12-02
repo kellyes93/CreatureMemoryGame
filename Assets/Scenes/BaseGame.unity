@@ -777,6 +777,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 --- !u!1 &1636047887
@@ -878,6 +879,8 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of dba2e5a (Merge pull request #1 from kellyes93/Kelly)
 =======
 >>>>>>> parent of dba2e5a (Merge pull request #1 from kellyes93/Kelly)
 --- !u!1 &1829648827
